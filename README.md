@@ -1,12 +1,12 @@
 # Spring-Eureka-Microservice-Example
 
-a).Developed two microservice
+a).Developed two microservices
 
      1.school microservice
      
      2.student microservice
      
- b). Eureka Service (here we can monitor the current running instance)
+ b). Eureka Server (here we can monitor the current running instance)
  
  Step to test
  1. Start Eureka Service .which is running on http://localhost:8761/
