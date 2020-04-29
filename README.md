@@ -1,8 +1,11 @@
 # Spring-Eureka-Microservice-Example
 
 a).Developed two microservice
+
      1.school microservice
+     
      2.student microservice
+     
  b). Eureka Service (here we can monitor the current running instance)
  
  Step to test
