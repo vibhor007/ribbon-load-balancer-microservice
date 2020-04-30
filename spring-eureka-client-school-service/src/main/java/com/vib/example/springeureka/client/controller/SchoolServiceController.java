@@ -1,4 +1,4 @@
-package com.example.springeureka.client.controller;
+package com.vib.example.springeureka.client.controller;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.cloud.client.loadbalancer.LoadBalanced;
@@ -27,6 +27,8 @@ public class SchoolServiceController {
 		}, schoolname).getBody();
 
 		System.out.println("Response Received as " + response);
+		//Resource<String> res= new Resource<String>(response);
+		//res.add(linkTo(methodOn(SchoolServiceController.class).getStudents(schoolname)).withRel("_self"));
 
 		return "School Name -  " + schoolname + " \n Student Details " + response;
 	}

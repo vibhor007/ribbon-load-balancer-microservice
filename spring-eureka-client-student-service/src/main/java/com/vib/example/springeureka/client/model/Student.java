@@ -1,4 +1,4 @@
-package com.example.springeureka.client.model;
+package com.vib.example.springeureka.client.model;
 /**
  * 
  * @author vibhor

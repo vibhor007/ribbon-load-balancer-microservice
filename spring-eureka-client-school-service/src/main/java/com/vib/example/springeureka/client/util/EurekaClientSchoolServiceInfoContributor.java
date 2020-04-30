@@ -1,4 +1,4 @@
-package com.example.springeureka.client.util;
+package com.vib.example.springeureka.client.util;
 
 import java.util.Collections;
 

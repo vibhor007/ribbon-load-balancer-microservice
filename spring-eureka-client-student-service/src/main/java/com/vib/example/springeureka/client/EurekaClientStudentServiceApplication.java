@@ -1,4 +1,4 @@
-package com.example.springeureka.client;
+package com.vib.example.springeureka.client;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

@@ -1,4 +1,4 @@
-package com.example.springeureka.monitor.server;
+package com.vib.example.springeureka.monitor.server;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

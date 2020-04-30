@@ -1,11 +1,15 @@
-package com.example.springeureka.client.util;
+package com.vib.example.springeureka.client.util;
 
 import java.util.Collections;
 
 import org.springframework.boot.actuate.info.Info;
 import org.springframework.boot.actuate.info.InfoContributor;
 import org.springframework.stereotype.Component;
-
+/**
+ * 
+ * @author vibhor
+ *
+ */
 @Component
 public class EurekaClientStudentServiceInfoContributor implements InfoContributor {
 

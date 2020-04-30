@@ -1,4 +1,4 @@
-package com.example.springeureka.client.controller;
+package com.vib.example.springeureka.client.controller;
 
 import java.util.ArrayList;
 import java.util.HashMap;
@@ -10,7 +10,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.example.springeureka.client.model.Student;
+import com.vib.example.springeureka.client.model.Student;
 /**
  * 
  * @author vibhor
